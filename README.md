@@ -13,8 +13,7 @@ O objetivo é estudar e implementar listas encadeadas, listas ordenadas e árvor
 ## 📖 Recursos adicionais
 
 - [Lista Encadeada - Vídeo Explicativo](https://www.youtube.com/watch?v=ZQPpzStpa1M)
-- [Documentação oficial do C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
+  
 ## 🚀 Como rodar os exemplos
 
 1. Clone o repositório:
