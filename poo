@@ -1,5 +1,5 @@
 # Orientação a Objetos
-
+notebook = https://colab.research.google.com/drive/17lwmITx0Oh9nlzGKfZ3GUK6G8BWYAbEI
 Considere um programa para um banco financeiro. É fácil perceber que uma entidade importante para o nosso sistema será uma conta. Primeiramente, suponha que você tem uma conta nesse banco com as seguintes características: titular, número, saldo e limite. Vamos começar inicializando essas características:
 
 ```python
