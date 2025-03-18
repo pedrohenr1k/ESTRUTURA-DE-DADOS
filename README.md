@@ -8,7 +8,8 @@ Este repositório contém implementações de:
 
 ## 📌 Objetivo
 
-O objetivo é estudar e implementar listas encadeadas, listas ordenadas e árvores binárias em C#.
+O objetivo é estudar e implementar listas encadeadas, listas ordenadas e árvores binárias 
+
 
 
 
