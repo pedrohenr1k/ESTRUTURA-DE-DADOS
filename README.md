@@ -12,25 +12,12 @@ O objetivo principal é facilitar o aprendizado prático dessas estruturas, demo
 - **Aplicação Real:** Demonstrar a utilização dessas estruturas em situações cotidianas, como a gestão de eventos em jogos.
 - **Boas Práticas:** Promover a organização do código, modularidade e colaboração em um repositório bem estruturado.
 
-## Estrutura do Repositório
-```
-EstruturasDeDados/
-├── ListasEncadeadas/
-│   ├── node.py
-│   └── listaEncadeada.py
-├── ListasOrdenadas/
-│   └── listaOrdenada.py
-├── ArvoresBinarias/
-│   └── arvoreBinaria.py
-├── main.py
-└── README.md
-```
 
 ## Funcionalidades
 - Implementação de **Listas Encadeadas** com operações de inserção, remoção e busca.
 - Implementação de **Listas Ordenadas** que organizam elementos automaticamente em ordem crescente.
 - Implementação de **Árvores Binárias de Busca (BST)** com suporte a inserção, remoção e travessia.
-- Exemplos práticos no arquivo `main.py` ilustrando o uso de cada estrutura.
+
 
 ## Requisitos
 - **Python 3.6+** instalado.
@@ -53,10 +40,6 @@ EstruturasDeDados/
     venv\Scripts\activate  # Windows
     ```
 
-4. **Executar o Arquivo Principal:**
-    ```bash
-    python main.py
-    ```
 
 ## Aplicabilidade no Desenvolvimento de Jogos
 ### 1. Listas Encadeadas – Controle de Eventos
